@@ -1,0 +1,22 @@
+.lorem{
+display: flex;
+gap: 50px;
+
+}
+
+.wap{
+display: grid;
+grid-template-columns: repeat(5,2fr);
+gap: 11px;
+
+}
+.wa{
+
+
+    border: 2px solid black;
+
+}
+body{
+background-color: rgb(130, 167, 167);
+
+}
